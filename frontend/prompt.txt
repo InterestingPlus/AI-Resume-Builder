@@ -1,0 +1,8 @@
+My Name is Jatin Poriya, i'm learning web development since 2 years.
+
+Experience: Currently Started Frontend Developer Internship at Aroha health: March, 2026 to Present;
+Basic Software Development Internship at CSure Infotech Pvt. Ltd. : May to Jun, 2025.
+
+Education: BCA - Smt. K. B. Parekh College Mahuva - MKBU (currently in sem 4 - aspected completion year - 2027)
+
+Skills: MERN, JWT, REST API, AI Integration, DSA
